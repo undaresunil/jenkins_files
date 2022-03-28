@@ -19,7 +19,7 @@ pipeline {
         }
         stage('Deploy on Build') {
             steps {
-                echo 'Deploy Final Build'
+                echo 'Deploy Final Build1'
             }
         }
 
